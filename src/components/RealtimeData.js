@@ -18,7 +18,7 @@ export class RealtimeData extends Component {
 
             ],
             date: new Date(),
-            userPassw : '2022erdemgurkas'
+            userPassw : ''
         }
     }
 
